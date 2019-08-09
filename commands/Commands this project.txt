@@ -1,0 +1,8 @@
+npm install --save firebase
+
+expo install expo-facebook
+
+
+npm install react-native-gifted-chat --save
+
+npm install --save react-native-keyboard-spacer
